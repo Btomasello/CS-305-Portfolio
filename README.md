@@ -1,4 +1,4 @@
-# CS-305-Portfolio
+# CS-305-Portfolio Project
 Artemis Financial Practices for Secure Software Report:
 
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
